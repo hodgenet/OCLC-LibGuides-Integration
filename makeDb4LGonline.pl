@@ -18,9 +18,10 @@ use XML::SimpleObject;                                                  #       
 ## This script is provided for informational purposes and is not in distribution-ready condition.
 
 ## This script requires the locally developed OCLCAuth and OCLCCred modules to work. These are included in the OCLC-APIs repository on this account and are also not really 
-## in distribution-ready condition. The script assumes it will be installed in a directory on a web server with a subdirectory called ./tmp
-## that the script can write to, where the output file will be stored. We run this only on a local workstation or a secured server that is not accessible from outside.  
-## Look for [replace with path] sections in the code to provide details with your setup. You can contact me at thom@hodgenet.com if you have any trouble installing or using this.
+## in distribution-ready condition. Please contact the author (thom@hodgenet.com) if you're interested in access. The script assumes it will be installed in a directory on a 
+## web server with a subdirectory called ./tmp that the script can write to, where the output file will be stored. We run this only on a local workstation or a secured server 
+## that is not accessible from outside.  Look for [replace with path] sections in the code to provide details with your setup. You can contact me at thom@hodgenet.com if 
+## you have any trouble installing or using this.
 
 
 ######## makeTime       #######
